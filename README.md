@@ -1,8 +1,7 @@
 #HTMl004
 
 - Szerző: Szilágyi Gábor
-- https://szit.hu/doku.php?id=oktatas:web:html:html_feladatok
-- feladat: 
+- feladat: https://szit.hu/doku.php?id=oktatas:web:html:html_feladatok
 
 
 1. A hpux.txt állomány tartalmát illessze be a HTML oldal törzs részébe. 
